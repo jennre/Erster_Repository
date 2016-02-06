@@ -1,1 +1,3 @@
-Das ist eine Änderung.
+Das ist eine ï¿½nderung.
+
+"Diesen Satz habe ich mit dem Editor auf GitHub eingefÃ¼gt!"
