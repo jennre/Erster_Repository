@@ -1,3 +1,5 @@
-Das ist eine �nderung.
+﻿Das ist eine �nderung.
 
 "Diesen Satz habe ich mit dem Editor auf GitHub eingefügt!"
+
+Neuer Satz.
